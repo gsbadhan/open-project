@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.appdirect</groupId>
-	<artifactId>openproject</artifactId>
+	<artifactId>rest-spring-cxf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<description>open project</description>
+	<description>CXF REST</description>
 
 
 	<properties>
@@ -152,7 +152,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>open-project</finalName>
+		<finalName>rest-spring-cxf</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
